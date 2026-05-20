@@ -1,50 +1,132 @@
-# Hi there 👋, I'm Lokesh Yadav
+<div align="center">
 
-🎓 Computer Science Engineering Student passionate about communication, technology, and problem-solving.
+# 👋 Hi, I'm Lokesh Yadav
 
-💬 I strongly believe that great communication and strong technical skills together create real impact. I enjoy interacting with people, building professional relationships, presenting ideas confidently, and working in team-oriented environments.
+### Communication-Focused CSE Engineer | Data Analytics Enthusiast | Tech & People Connector
 
-🌟 What makes me stand out:
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
 
-* Strong communication & interpersonal skills
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 Computer Science Engineering student passionate about combining **communication, leadership, and technology** to create meaningful impact.
+
+💬 I enjoy:
+
+* Building professional relationships
+* Presenting ideas confidently
+* Working in collaborative environments
+* Solving real-world problems through technology
+
+🌟 My biggest strengths are:
+
+* Excellent communication & interpersonal skills
 * Fluent English speaking and presentation abilities
-* Confident in public speaking & group discussions
-* Leadership and relationship-building mindset
-* Positive attitude with adaptable personality
-* Team collaboration and coordination skills
+* Leadership & relationship-building mindset
+* Team collaboration and coordination
+* Adaptability and continuous learning
 
-💻 Technical Skills:
+💻 Along with communication, I also work with:
 
-* Python
-* SQL
 * Data Analytics & Visualization
+* Python & SQL
 * Machine Learning Basics
-* HTML, CSS, JavaScript
-* PHP & MySQL
+* Web Development
 * Android App Development
 
-🚀 Career Interests:
+---
 
-* Relationship Management
-* Client Communication
-* Business & Technical Coordination
-* Data Analytics
-* Management & Leadership Roles
-* Tech-driven Business Solutions
+## 🌐 Connect With Me
 
-📚 Currently learning:
+<p align="center">
+<a href="https://github.com/Lokeshyadav7637">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,php,java,androidstudio,git,github,vscode" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lokeshyadav7637&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshyadav7637&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Lokeshyadav7637&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lokeshyadav7637&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeshyadav7637&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
 
 * Advanced Data Analytics
 * Machine Learning
 * Business Communication
-* Professional Development
+* Leadership & Professional Development
+* Tech-driven Business Solutions
 
-🏔️ Beyond academics:
-I enjoy traveling, exploring new ideas, meeting people from different backgrounds, and continuously improving myself.
+---
 
-✨ Motto:
-“Communication builds connections, and technology creates solutions.”
+# ✨ Personal Philosophy
 
-📫 Connect with me:
+> “Strong communication builds trust, and technology creates impact.”
 
-* GitHub: @Lokeshyadav7637
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+</div>
